@@ -17,4 +17,3 @@ class President {
 $us_president = new President;
 $president_name = $us_president->name;
 $greetings_from_president = $us_president->greet("Donald");
-?>
